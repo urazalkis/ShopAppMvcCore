@@ -1,0 +1,19 @@
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csproj.AssemblyReference.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.GeneratedMSBuildEditorConfig.editorconfig

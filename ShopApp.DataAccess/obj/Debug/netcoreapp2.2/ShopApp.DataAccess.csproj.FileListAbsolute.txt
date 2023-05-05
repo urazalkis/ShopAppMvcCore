@@ -1,0 +1,31 @@
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\DELL\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\57-Delete Items From Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.genruntimeconfig.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\WEB\Alkislareticaret\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
